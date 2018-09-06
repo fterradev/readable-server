@@ -1,5 +1,7 @@
 # API Server
 
+This has been originally forked from [udacity/reactnd-project-myreads-starter](https://github.com/udacity/reactnd-project-myreads-starter).
+
 To install and start the API server, run the following commands in this directory:
 
 * `npm install`
